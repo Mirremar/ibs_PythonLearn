@@ -1,2 +1,2 @@
-s = 'bfgshbki'
-print(s[-1:1:-2])
+s = 'bfgshbkis'
+print(s[-2:-8:-2])
